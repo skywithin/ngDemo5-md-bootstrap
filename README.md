@@ -23,3 +23,7 @@ If you want to change styles in existing project you can use ng set defaults.sty
 
 8. Add required changes tsconfig.json
 
+9. Install external libs
+npm install -–save chart.js@2.5.0 font-awesome hammerjs 
+
+
