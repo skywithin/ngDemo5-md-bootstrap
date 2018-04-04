@@ -12,3 +12,4 @@ ng new ngDemo5-md-bootstrap --style=scss
 3.  GitHub npm install
 npm i angular-bootstrap-md --save 
 
+4. Add required changes to app.module.ts
