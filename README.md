@@ -13,3 +13,12 @@ ng new ngDemo5-md-bootstrap --style=scss
 npm i angular-bootstrap-md --save 
 
 4. Add required changes to app.module.ts
+
+5. Make sure that styleExt is set to "scss" in angular-cli.json file
+
+6. If you have src/styles.css instead, rename it to .scss.
+If you want to change styles in existing project you can use ng set defaults.styleExt scss
+
+7. Add required changes angular-cli.json
+
+
