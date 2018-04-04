@@ -21,4 +21,5 @@ If you want to change styles in existing project you can use ng set defaults.sty
 
 7. Add required changes angular-cli.json
 
+8. Add required changes tsconfig.json
 
